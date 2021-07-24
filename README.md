@@ -11,8 +11,8 @@
       
 - 📫 Estou sempre de olho no meu LInkedin: Tiago Versuri // I'm always watching my LInkedin: Tiago Versuri
 
-- 🧑🏻 Sou um estudante de Análise e desenvolvimento de sistemas, atualmente me encontro no 2 semestre da faculdade, eu já aprendi sobre VBA, VBS, Batch 
-  // I am a student of Systems Analysis and Development, currently I am in the 2nd semester of college, I already learned about VBA, VBS, Batch
+- 🧑🏻 Sou um estudante de Análise e desenvolvimento de sistemas, atualmente me encontro no 3 semestre da faculdade, eu já aprendi sobre VBA, VBS, Batch e C
+  // I am a student of Systems Analysis and Development, currently I am in the 3nd semester of college, I already learned about VBA, VBS, Batch and C
   
 - 💼 Estou procurando uma chance de estágio para meu desenvolvimento profissional a aprendizado constante // I am looking for an internship chance for my professional development and constant learning
       
