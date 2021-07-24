@@ -6,7 +6,7 @@
 - 🌱  atualmente estou aprendendo c#, sql e Java script //  I am currently learning C #, sql and Java script
        
       
-- 💞️ gostaria de colaborar em algum projeto, seria interessante ganhar essa experiencia e receber dicas de aprimorando para meus códigos
+- 💞️ gostaria de colaborar em algum projeto, seria interessante ganhar essa experiencia e receber dicas de aprimoramento para meus códigos
      //  would like to collaborate on some project, it would be interesting to gain this experience and receive tips for improving my codes
       
 - 📫 Estou sempre de olho no meu LInkedin: Tiago Versuri // I'm always watching my LInkedin: Tiago Versuri
