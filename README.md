@@ -11,8 +11,7 @@
       
 - 📫 Estou sempre de olho no meu LInkedin: Tiago Versuri // I'm always watching my LInkedin: Tiago Versuri
 
-- 🧑🏻 Sou um estudante de Análise e desenvolvimento de sistemas, atualmente me encontro no 6º semestre da faculdade, eu já aprendi sobre VBA, VBS, Batch, C, c++, java,
-- sql, mysql, html, css
+- 🧑🏻 Sou um estudante de Análise e desenvolvimento de sistemas, atualmente me encontro no 6º semestre da faculdade, eu já aprendi sobre VBA, VBS, Batch, C, c++, java,   sql, mysql, html, css
   // I am a student of Systems Analysis and Development, currently I am in the 3nd semester of college, I already learned about VBA, VBS, Batch, C, c++, java, sql,
   mysql, html, css
   
