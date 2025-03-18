@@ -1,3 +1,7 @@
+
+Alguns dos meus projetos desenvolvidos
+
+<!---
 - 👋 olá, me chamo Tiago Versuri //  Hello, my name is Tiago Versuri
      
 - 👀 estou interessado em aprender novas linguagens, aprimorando minha lógica e estrutura de código
@@ -22,7 +26,4 @@
 - 🎮  ainda estou aprendendo sobre meu hobbye, no meu tempo livre eu dedico um tempo para aprender mais sobre o desenvolvimento de jogos, estou usando a unity e estou
 aprimorando meus conhecimentos em c# // i am still learning about my hobbye, in my free time i take time to learn more about game development, i am using unity and 
 Improving my skills in C#
-<!---
-trocajhinlho/trocajhinlho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
